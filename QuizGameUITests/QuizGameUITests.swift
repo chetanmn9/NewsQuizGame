@@ -1,9 +1,7 @@
 //
 //  QuizGameUITests.swift
 //  QuizGameUITests
-//
-//  Created by Chetan on 19/5/2025.
-//
+
 
 import XCTest
 
